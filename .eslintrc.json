@@ -12,7 +12,6 @@
   },
   "rules": {
       "arrow-parens": ["error", "as-needed"],
-      "object-property-newline": ["error"],
       "no-inline-comments": ["error"],
       "camelcase": ["error"],
       "prefer-const": ["error"],
