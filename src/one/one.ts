@@ -1,6 +1,5 @@
 import { readFile } from 'fs';
 
-
 readFile(`./src/one/resources/data.txt`, (error, data) => {
   if (error) throw error;
 
