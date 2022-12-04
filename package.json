@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2022",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "1.1": "npx vite-node src/one/one.ts",
+    "1.2": "npx vite-node src/one/two.ts",
+    "2.1": "npx vite-node src/two/one.ts",
+    "2.2": "npx vite-node src/two/two.ts",
+    "3.1": "npx vite-node src/three/one.ts",
+    "3.2": "npx vite-node src/three/two.ts",
+    "4.1": "npx vite-node src/four/one.ts",
+    "4.2": "npx vite-node src/four/two.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3"
+  },
+  "dependencies": {
+    "vite-node": "^0.25.3"
+  }
+}
