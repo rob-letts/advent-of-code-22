@@ -8,7 +8,9 @@
     "2.1": "npx vite-node src/two/one.ts",
     "2.2": "npx vite-node src/two/two.ts",
     "3.1": "npx vite-node src/three/one.ts",
-    "3.2": "npx vite-node src/three/two.ts"
+    "3.2": "npx vite-node src/three/two.ts",
+    "4.1": "npx vite-node src/four/one.ts",
+    "4.2": "npx vite-node src/four/two.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
