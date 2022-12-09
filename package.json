@@ -10,7 +10,9 @@
     "3.1": "npx vite-node src/three/one.ts",
     "3.2": "npx vite-node src/three/two.ts",
     "4.1": "npx vite-node src/four/one.ts",
-    "4.2": "npx vite-node src/four/two.ts"
+    "4.2": "npx vite-node src/four/two.ts",
+    "5.1": "npx vite-node src/five/one.ts",
+    "5.2": "npx vite-node src/five/two.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
