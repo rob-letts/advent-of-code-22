@@ -1,5 +1,5 @@
 # Advent Of Code 2022. 
 
-Hopefully readable, definitely not optimal.
+Hopefully readable, but definitely not optimal.
 
-All in TypeScript via Vite-Node.
+All answers in TypeScript, using [Vite-Node](https://www.npmjs.com/package/vite-node).
