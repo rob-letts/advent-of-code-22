@@ -1,6 +1,6 @@
-# [Advent Of Code](adventofcode.com) 2022. 
+# [Advent Of Code 2022.](https://www.adventofcode.com)
 
-Hopefully readable, but definitely not optimal.
+Hopefully readable, but _definitely_ not optimal.
 
-All answers in TypeScript, using [Vite-Node](https://www.npmjs.com/package/vite-node).
+All answers in __TypeScript__, using [Vite-Node](https://www.npmjs.com/package/vite-node).
 
