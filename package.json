@@ -20,7 +20,9 @@
     "8.1": "npx vite-node src/eight/one.ts",
     "8.2": "npx vite-node src/eight/two.ts",
     "9.1": "npx vite-node src/nine/one.ts",
-    "9.2": "npx vite-node src/nine/two.ts"
+    "9.2": "npx vite-node src/nine/two.ts",
+    "10.1": "npx vite-node src/ten/one.ts",
+    "10.2": "npx vite-node src/ten/two.ts"
   },
   "devDependencies": {
     "@types/node": "^18.11.10",
