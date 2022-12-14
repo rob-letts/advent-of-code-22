@@ -32,8 +32,7 @@ for (let i = 0; i < NUMBER_OF_ROUNDS; i++) {
 
       monkeys
         .find(targetMonkey => targetMonkey.name === targetMonkeyName)
-        ?.items
-        .push(itemWorryLevel);
+        ?.items.push(itemWorryLevel);
     });
 
     monkey.items = [];
@@ -63,7 +62,6 @@ function getMonkeys (monkeyDetails: string[]): Monkey[] {
     const splitPoint = emptyLineIndex === -1 ? monkeyDetails.length : emptyLineIndex + 1;
     const monkey = monkeyDetails.splice(0, splitPoint);
     const [name, startingItems, operation, test, targetIfTrue, targetIfFalse] = monkey;
-
 
     monkeys.push({
       name: name.replace(instructions.newMonkey, ``).replaceAll(`:`, ``).trim(),
