@@ -2,6 +2,8 @@
 
 Here be spoilers.
 
+Let's see how far I get with this one.
+
 Hopefully readable, but _definitely_ not optimal.
 
 All answers in __TypeScript__, using [Vite-Node](https://www.npmjs.com/package/vite-node).
